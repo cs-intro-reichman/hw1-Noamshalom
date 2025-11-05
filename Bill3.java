@@ -14,7 +14,7 @@ public class Bill3 {
 		double bill = Math.ceil(PerPerson);
 
         // Print the message (in reverse order)
-		System.out.println("Dear " + name3 + ", " + name2 + " and " + name1 + ": pay " + bill + " Shekels each.");
+		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ": pay " + bill + " Shekels each.");
 
 	  
 	}
